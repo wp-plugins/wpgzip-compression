@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributor: arshidkv12
+Contributors: arshidkv12
 License: GPLv2
 Tags: Gzip, Compression, Speed, Optimization, ob_gzhandler
 Requires at least: 3.0
@@ -10,7 +10,9 @@ Stable tag: 1.1
 == Description ==
 
 This plugin reduce page weight by using gzip compression method.Gzip is the most popular and effective compression method currently available and generally reduces the response size by about 70%.
-Support: Skype:arshidkv12
+= Support =
+
+  Skype:arshidkv12
 
 == Installation ==
 
