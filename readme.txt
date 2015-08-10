@@ -10,6 +10,7 @@ Stable tag: 1.1
 == Description ==
 
 This plugin reduce page weight by using gzip compression method.Gzip is the most popular and effective compression method currently available and generally reduces the response size by about 70%.
+
 = Support =
 
   Skype:arshidkv12
